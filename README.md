@@ -1,3 +1,3 @@
-{# Automated-Appontment-Fixing-Bot}
+{# Automated-Appointment-Fixing-Bot}
 
 WORK in progress
